@@ -1,0 +1,17 @@
+{
+  "name": "genpark-saga-orchestrator-compensating-tx-skill",
+  "version": "1.0.0",
+  "description": "Saga pattern orchestrator coordinating multi-service workflows with forward action sequencing and backward compensating transaction rollbacks.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "saga-pattern",
+    "compensating-transactions",
+    "microservices",
+    "event-driven",
+    "orchestration"
+  ],
+  "dependencies": []
+}
